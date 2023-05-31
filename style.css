@@ -1,0 +1,29 @@
+div{
+    margin: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+#title {
+    display: block;
+    color: steelblue;
+    background-color: lightblue;
+    font-size: 80px;
+    font-style:bold;
+    padding: 10px;
+}
+
+#list {
+    display: block;
+    background-color:lightgrey;
+    font-style:italic;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    list-style-type: none;
+    font-style: italic;
+
+}
+
